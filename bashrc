@@ -1,0 +1,1 @@
+export IGNOREEOF=1
